@@ -1,0 +1,9 @@
+             Df         SS         MS Fvalue  Pvalue Sig                                                             EMS
+clone            9 21932.1727 2436.90808 6.1748 <0.0001 ***                                     Error+10.6666666666667clone
+bloco            1   324.9389  324.93891 1.1449  0.3125             Error+5.33333333333333clone:bloco+53.3333333333333bloco
+clone:bloco      9  2554.3283  283.81426 0.7192  0.6884                                   Error+5.33333333333333clone:bloco
+ano              1  1784.4439 1784.44386 6.7701  0.0286   *             Error+5.33333333333333clone:ano+53.3333333333333ano
+clone:ano        9  2372.2074  263.57860 0.6679  0.7325                                     Error+5.33333333333333clone:ano
+bloco:ano        1   223.6802  223.68016 2.4276  0.1536     Error+2.66666666666667clone:bloco:ano+26.6666666666667bloco:ano
+clone:bloco:ano  9   829.2521   92.13912 0.2335  0.9874                               Error+2.66666666666667clone:bloco:ano
+Residuals       40 15786.0779  394.65195                                                                              Error

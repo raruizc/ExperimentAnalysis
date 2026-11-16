@@ -1,0 +1,25 @@
+# R / RStudio
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+*_cache/
+rsconnect/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Third-party articles and personal documents (not redistributed)
+Lista 02/[12][09][0-9][0-9] - *.pdf
+Lista 01/*ESTUDANTE*.pdf
